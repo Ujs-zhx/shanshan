@@ -9,6 +9,9 @@ public class EgitTest {
 		System.out.println("ccc");
 		System.out.println("888");
 		System.out.println("999");
+		System.out.println("666");
+		System.out.println("777");
+
 	}
 
 }
